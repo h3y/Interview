@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using InterviewTask.API;
 using InterviewTask.Controllers;
-using InterviewTask.Models.Settings;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;

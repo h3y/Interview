@@ -3,7 +3,6 @@ using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 using InterviewTask.Models.Geo;
-using InterviewTask.Models.Settings;
 using Microsoft.Extensions.Configuration;
 
 namespace InterviewTask.API
